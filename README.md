@@ -14,6 +14,6 @@ The repository for the [web developer](https://www.yrgo.se/webbutvecklare) class
 
 # testar nya saker
 ~~oj blev lite fel~~
-https://giphy.com/gifs/cat-humour-funny-ICOgUNjpvO0PC
-
+<br>
+(https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
