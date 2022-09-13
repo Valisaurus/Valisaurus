@@ -15,5 +15,5 @@ The repository for the [web developer](https://www.yrgo.se/webbutvecklare) class
 # testar nya saker
 ~~oj blev lite fel~~
 <br>
-(https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" />
 
